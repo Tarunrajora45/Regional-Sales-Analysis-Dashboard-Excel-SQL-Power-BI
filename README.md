@@ -33,16 +33,16 @@ Limited visibility into monthly and yearly sales patterns makes forecasting and 
 
 # 🔬 Research Questions
 
-- 1. Which products drive the highest sales volume and revenue?
+- Which products drive the highest sales volume and revenue?
 
 
--  2. Which customer segments (age group + region) generate the most revenue?
+- Which customer segments (age group + region) generate the most revenue?
 
 
-- 3. Which product categories are most efficient in generating profit relative to revenue?
+- Which product categories are most efficient in generating profit relative to revenue?
 
 
-- 4. What are the year-over-year and seasonal sales trends?
+- What are the year-over-year and seasonal sales trends?
 
 
 
@@ -124,71 +124,59 @@ The United States accounts for 41% (7,481 customers) of total customers, making 
 
 # ⚙️ How It Works
 
-## This project follows a structured analytics pipeline:
+-  This project follows a structured analytics pipeline:
 
-- 1. Initial dataset validation and inspection in Excel.
-
-
-- 2. Data upload into PostgreSQL for cleaning and structured querying.
+- Initial dataset validation and inspection in Excel.
 
 
-- 3. Exploratory Data Analysis (EDA) using SQL for metric computation and segmentation.
+- Data upload into PostgreSQL for cleaning and structured querying.
 
 
-- 4. Processed datasets loaded into Power BI.
+- Exploratory Data Analysis (EDA) using SQL for metric computation and segmentation.
 
 
-- 5. Development of interactive dashboards with:
-
-KPI cards
-
-Demographic breakdowns
-
-Category performance comparisons
-
-Geographic distribution mapping
-
-Time-series trend analysis
+- Processed datasets loaded into Power BI.
 
 
+- Development of interactive dashboards with:
+KPI cards,Demographic breakdowns, Category performance comparisons, Geographic distribution mapping and Time-series trend analysis
+
+- Users can filter by:
+
+- Year
+
+- Country
+
+- Gender
 
 
-Users can filter by:
-
-Year
-
-Country
-
-Gender
-
-
-The dashboard dynamically updates metrics and visualizations to support real-time analytical exploration.
+### The dashboard dynamically updates metrics and visualizations to support real-time analytical exploration.
 
 
 ---
 
 # 🚀 Why This Project Stands Out
 
-1️⃣ End-to-End Analytics Workflow
+## 1️⃣ End-to-End Analytics Workflow
 
 This is not just a dashboard project. It demonstrates:
 
-Data cleaning in SQL
+- Data cleaning in SQL
 
-Structured EDA
+- Structured EDA
 
-Metric engineering
+- Metric engineering
 
-Business framing
+- Business framing
 
-Visualization and storytelling
+- Visualization and storytelling
 
 
-2️⃣ Business-Driven Problem Framing
+## 2️⃣ Business-Driven Problem Framing
 
 Instead of building visuals first, this project begins with clearly defined business problems and research questions, aligning analysis with decision-making needs.
 
-3️⃣ Profitability Focus (Not Just Revenue Reporting)
+## 3️⃣ Profitability Focus (Not Just Revenue Reporting)
 
 Many sales dashboards focus solely on revenue. This project incorporates:
 
@@ -199,51 +187,51 @@ Category efficiency analysis
 Cost-awareness in decision-making
 
 
-4️⃣ Multi-Dimensional Segmentation
+## 4️⃣ Multi-Dimensional Segmentation
 
 Analysis includes:
 
-Product-level insights
+- Product-level insights
 
-Category-level profitability
+- Category-level profitability
 
-Age-group segmentation
+- Age-group segmentation
 
-Regional performance
+- Regional performance
 
-Time-series trends
+- Time-series trends
 
 
-This reflects real-world analytical depth beyond surface-level reporting.
+- ➡️ This reflects real-world analytical depth beyond surface-level reporting.
 
 
 ---
 
 # 🛠 Tools & Skills Used
 
-Tools
+## Tools
 
-Microsoft Excel
+- Microsoft Excel
 
-PostgreSQL
+- PostgreSQL
 
-Power BI
+- Power BI
 
 
-Skills Demonstrated
+## Skills Demonstrated
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-SQL Query Optimization
+- SQL Query Optimization
 
-Business Problem Structuring
+- Business Problem Structuring
 
-KPI Development
+- KPI Development
 
-Interactive Dashboard Design
+- Interactive Dashboard Design
 
-Data Storytelling
+- Data Storytelling
 
-Analytical & Critical Thinking
+- Analytical & Critical Thinking
