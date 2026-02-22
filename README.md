@@ -235,3 +235,14 @@ Analysis includes:
 - Data Storytelling
 
 - Analytical & Critical Thinking
+
+---
+
+# 💬 Helping Feedback & Recommendations
+
+
+- Your Feedback & Critics means a lot to me . feel free to collaborate & giving feedback or asking questions on this project. I really appreciate every critic & great idea , feel free to reach out .
+
+---
+
+# 
