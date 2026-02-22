@@ -102,20 +102,20 @@ Limited visibility into monthly and yearly sales patterns makes forecasting and 
 
 # 💡 Key Insights
 
-## 🥇 Top Performing Product
+### 🥇 Top Performing Product
 
 - Sport-100 Helmet (Red) generated the highest individual sales ($78K), primarily from the Accessories category.
 
-## 👥 Customer Demographics
+### 👥 Customer Demographics
 
 - The 40–49 age group is the strongest revenue-driving segment across genders.
 The United States accounts for 41% (7,481 customers) of total customers, making it the dominant market.
 
-## 📊 Year-over-Year Trends
+### 📊 Year-over-Year Trends
 
 - 2013 represents the strongest performing year, while 2010 was the weakest. Clear seasonal patterns are visible, supporting better forecasting.
 
-## 📦 Category Efficiency
+### 📦 Category Efficiency
 
 - Although Bikes generate higher revenue, the Accessories category demonstrates stronger profit efficiency, delivering over 10% higher relative profitability compared to other categories.
 
