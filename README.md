@@ -4,7 +4,8 @@
 
 # Table of Contents
 
-## <a href="#-project-overview">Overview</a>
+### <a href="#-project-overview">Overview</a>
+### <a href="#-Key-Business-Problems-Addressed">Business Problems</a>
 # 🔎 Project Overview
 
 This project analyzes multi-year regional sales performance to uncover insights related to product profitability, customer segmentation, category efficiency, and seasonal revenue trends.
