@@ -10,7 +10,7 @@
 ### <a href="#-data-preparation--exploratory-analysis-postgresql">Data cleaning & EDA</a>
 ### <a href="#-Key-Performance-Metrics">Key Metrics</a>
 ### <a href="#/Dataset">Dataset</a>
-### <a href="#/Dashboard">Dashboard</a>
+### <a href="/Dashboard/Regional%20Sales%20Analysis%20Dahboard.pbix">Dashboard</a>
 ### <a href="#/Preview">Preview</a>
 ### <a href="#-Key-Insights">Key Insights</a>
 ### <a href="#-how-it-works">How it works</a>
