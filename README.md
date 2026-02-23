@@ -6,6 +6,10 @@
 
 ### <a href="#-project-overview">Overview</a>
 ### <a href="#-Key-Business-Problems-Addressed">Business Problems</a>
+### <a href="#-Research-Questions">Research Questtins</a>
+### <a href="#-data-preparation--exploratory-analysis-postgresql">Data cleaning & EDA</a>
+### <a href="#-Key-Performance-Metrics">Key Metrics</a>
+### <a href="#-/main/Dataset">Dataset</a>
 # 🔎 Project Overview
 
 This project analyzes multi-year regional sales performance to uncover insights related to product profitability, customer segmentation, category efficiency, and seasonal revenue trends.
